@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Gabriel Gomes 
 
-<!--
-**GabrielGomes09/gabrielgomes09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🎓 Computer Science Student | 🎯 Looking for Internship Opportunities in IT
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Profile
+Computer Science student with experience in Virtual Reality development and academic research. Strong foundation in programming and problem-solving.
+
+---
+
+## 🛠 Skills
+- Programming: C, C++, C#, Python, HTML, CSS, JScript
+- Tools: Unity
+- Languages: Advanced English, Native Portuguese
+
+---
+
+## 💡 Experience
+Research Assistant in VR Project:
+- System improvement
+- Technical documentation
+- Academic writing
+
+---
+
+## 🎯 Goal
+Seeking an internship where I can grow as a developer and contribute to real-world solutions.
