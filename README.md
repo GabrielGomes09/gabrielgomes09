@@ -19,6 +19,7 @@ Computer Science student with experience in Virtual Reality development and acad
 ## 💡 Experience
 Research Assistant in VR Project:
 - System improvement
+- VR Development
 - Technical documentation
 - Academic writing
 
